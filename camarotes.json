@@ -1,0 +1,90 @@
+[
+  {
+    "Title": "Camarote Salvador",
+    "Amenities": "air conditioning, drinks (included), food (included), gourmet food (included), makeup lounge, lounge, spa, beach-adjacent, massage, air-conditioned bathrooms",
+    "Price": "ultra-premium (R$2500+ / night)",
+    "Venue Vibes": "luxury / chic, high-production, instagrammable, scenic / great views, tourist-friendly",
+    "Location Notes": "At the end of the circuit; runs very late into the night.",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Baiano",
+    "Amenities": "air-conditioned bathrooms, food (included), makeup lounge, lounge, gourmet food (included)",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "relaxed / calmer layout, locals-friendly, heritage / cultural pride design, open-air breezy, easy access, LGBTQ+ friendly",
+    "Location Notes": "Early on the circuit; one of the very first camarotes and bands have high energy.",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Brahma Salvador",
+    "Amenities": "drinks (included), food (included), gourmet food (included), makeup lounge, lounge, spa, beach-adjacent, massage, premium drinks (included)",
+    "Price": "premium (R$1200 - 2500 / night)",
+    "Venue Vibes": "high-production, party-forward, nightclub-style, tourist-friendly, instagrammable",
+    "Location Notes": "Mid-circuit; Clube Espanhol, Avenida Oceânica, 1404",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Harém Soho",
+    "Amenities": "air-conditioned bathrooms, air conditioning, food (included), drinks (included)",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "party-forward, locals-friendly, open-air breezy, easy access, tourist-friendly",
+    "Location Notes": "Morro do Gato; private entrance with no street access; 180° viewing platform; indoor AC lounges + outdoor viewing; trios stop directly in front (great views but causes interruptions for in-venue shows).",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Villa",
+    "Amenities": "drinks (included), food (included), gourmet food (included), makeup lounge, lounge, spa, massage, premium drinks (included)",
+    "Price": "premium (R$1200 - 2500 / night)",
+    "Venue Vibes": "party-forward, nightclub-style, high-production, instagrammable",
+    "Location Notes": "Mid-circuit, just past Harem Soho; Pref. Aeronáutica, Avenida Oceânica",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Club",
+    "Amenities": "air-conditioned bathrooms, air conditioning, drinks (included), premium drinks (included), food (included), makeup lounge, lounge, spa, beach-adjacent, massage, gourmet food (included)",
+    "Price": "premium (R$1200 - 2500 / night)",
+    "Venue Vibes": "party-forward, nightclub-style, high-production, tourist-friendly",
+    "Location Notes": "Clube Espanhol, Avenida Oceânica, 1404",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote da Barra",
+    "Amenities": "drinks (included), lounge, easy access, food (additional cost)",
+    "Price": "budget (under R$500 / night)",
+    "Venue Vibes": "scenic / great views, locals-friendly, no-frills / fun first, open-air breezy",
+    "Location Notes": "Barra, before the Cristo",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Planeta Band",
+    "Amenities": "air-conditioned bathrooms, air conditioning, drinks (included), food (included), gourmet food (included), makeup lounge, lounge, massage, spa",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "high-production, tourist-friendly, instagrammable",
+    "Location Notes": "Avenida Oceânica, 2294",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Glamour Salvador",
+    "Amenities": "drinks (included), makeup lounge, lounge",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "party-forward, nightclub-style, instagrammable, tourist-friendly, mobility-friendly",
+    "Location Notes": "Clube Espanhol - Av. Oceânica, 1404",
+    "Days": "Friday, Saturday, Sunday, Monday, Tuesday"
+  },
+  {
+    "Title": "Camarote Ondina",
+    "Amenities": "drinks (included), premium drinks (included), food (included), lounge, gourmet food (included)",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "scenic / great views, relaxed / calmer layout, open-air breezy, tourist-friendly",
+    "Location Notes": "Hotel Atlantic Towers em Ondina",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday"
+  },
+  {
+    "Title": "Camarote Mar Salvador",
+    "Amenities": "food (included), beach-adjacent, drinks (included)",
+    "Price": "mid-tier (R$500 - R$1200 / night)",
+    "Venue Vibes": "tourist-friendly, no-frills / fun first, relaxed / calmer layout",
+    "Location Notes": "Barra, before the Cristo",
+    "Days": "Thursday, Friday, Saturday, Sunday, Monday, Tuesday"
+  }
+]

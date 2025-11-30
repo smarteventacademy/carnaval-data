@@ -1,0 +1,690 @@
+[
+  {
+    "Bloco": "Coruja",
+    "Artist": "Ivete Sangalo",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Coruja",
+    "Artist": "Ivete Sangalo",
+    "Day": "Saturday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Bloco da Quinta",
+    "Artist": "Bell Marques",
+    "Day": "Thursday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Vumbora",
+    "Artist": "Bell Marques",
+    "Day": "Friday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Vumbora",
+    "Artist": "Bell Marques",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Cameleão",
+    "Artist": "Bell Marques",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Cameleão",
+    "Artist": "Bell Marques",
+    "Day": "Monday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Cameleão",
+    "Artist": "Bell Marques",
+    "Day": "Tuesday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Largadinho",
+    "Artist": "Claudia Leitte",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Fissura",
+    "Artist": "Tomate",
+    "Day": "Friday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Fissura",
+    "Artist": "Tomate",
+    "Day": "Saturday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Bloco da Nana",
+    "Artist": "Léo Santana",
+    "Day": "Friday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Bloco da Nana",
+    "Artist": "Léo Santana",
+    "Day": "Saturday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Da Torcida",
+    "Artist": "Xanddy Harmonia",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Da Segunda",
+    "Artist": "Xanddy Harmonia",
+    "Day": "Monday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Crocodilo",
+    "Artist": "Daniela Mercury",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Me Abraça",
+    "Artist": "Durval Lelys",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Me Abraça",
+    "Artist": "Durval Lelys",
+    "Day": "Monday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Eva",
+    "Artist": "Banda Eva",
+    "Day": "Saturday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Timbalada",
+    "Artist": "Timbalada",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Cortejo Afro",
+    "Artist": "Cortejo Afro",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Ilê Aiyê",
+    "Artist": "Ilê Aiyê",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Ilê Aiyê",
+    "Artist": "Ilê Aiyê",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Filhos de Gandhy",
+    "Artist": "Filhos de Gandhy",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Filhos de Gandhy",
+    "Artist": "Filhos de Gandhy",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Filhos de Gandhy",
+    "Artist": "Filhos de Gandhy",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Muzenza",
+    "Artist": "Muzenza",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Muzenza",
+    "Artist": "Muzenza",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Muzenza",
+    "Artist": "Muzenza",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Malê Debalê",
+    "Artist": "Malê Debalê",
+    "Day": "",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Olodum",
+    "Artist": "Olodum",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Cheiro de Amor",
+    "Artist": "Banda Cheiro",
+    "Day": "Friday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Os Internacionais",
+    "Artist": "É o Tchan",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Os Internacionais",
+    "Artist": "Chiclete com Banana",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Praieiro",
+    "Artist": "Jammil",
+    "Day": "Tuesday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Pipoca de Saulo",
+    "Artist": "Saulo Fernandes",
+    "Day": "Sunday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Sem corda (no abadá required)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Largadinho",
+    "Artist": "Claudia Leitte",
+    "Day": "Tuesday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Vem Comigo",
+    "Artist": "Carla Cristina",
+    "Day": "Monday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "Crocodilo",
+    "Artist": "Daniela Mercury",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Largadinho",
+    "Artist": "Claudia Leitte",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Xanddy Harmonia",
+    "Artist": "Xanddy Harmonia",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "La Fúria",
+    "Artist": "La Fúria",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Gilmelândia",
+    "Artist": "Gilmelândia",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Guig Ghetto",
+    "Artist": "Guig Ghetto",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Bankoma",
+    "Artist": "Bankoma",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Timbalada",
+    "Artist": "Carlinhos Brown",
+    "Day": "Saturday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "Abadá (paid)",
+    "Status": "Confirmed"
+  },
+  {
+    "Bloco": "BaianaSystem",
+    "Artist": "BaianaSystem",
+    "Day": "Thursday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Pipoca de Saulo",
+    "Artist": "Saulo Fernandes",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Sem corda (no abadá required)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Targino Gondim",
+    "Artist": "Targino Gondim",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Tony Salles",
+    "Artist": "Tony Salles",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "La Fúria",
+    "Artist": "La Fúria",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Olodum",
+    "Artist": "Olodum",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Cortejo Afro",
+    "Artist": "Cortejo Afro",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Alinne Rosa",
+    "Artist": "Alinne Rosa",
+    "Day": "Friday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Me Abraça",
+    "Artist": "Durval Lelys",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Didà Banda Feminina",
+    "Artist": "Didá – Banda Feminina",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Timbalada",
+    "Artist": "Timbalada",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Pagodart",
+    "Artist": "Pagodart",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Guig Ghetto",
+    "Artist": "Guig Ghetto",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "BaianaSystem",
+    "Artist": "BaianaSystem",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Targino Gondim",
+    "Artist": "Targino Gondim",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Bankoma",
+    "Artist": "Bankoma",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Malê Debalê",
+    "Artist": "Malê Debalê",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Alinne Rosa",
+    "Artist": "Alinne Rosa",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Thiago Aquino",
+    "Artist": "Thiago Aquino",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Muzenza",
+    "Artist": "Muzenza",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Filhos de Congo",
+    "Artist": "Filhos do Congo",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Ilê Aiyê",
+    "Artist": "Ilê Aiyê",
+    "Day": "Sunday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Largadinho",
+    "Artist": "Claudia Leitte",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Thiago Aquino",
+    "Artist": "Thiago Aquino",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Pagodart",
+    "Artist": "Pagodart",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Didà Banda Feminina",
+    "Artist": "Didá – Banda Feminina",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Parangolé",
+    "Artist": "Parangolé",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Timbalada",
+    "Artist": "Timbalada",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Tony Salles",
+    "Artist": "Tony Salles",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Malê Debalê",
+    "Artist": "Malê Debalê",
+    "Day": "Monday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Guig Ghetto",
+    "Artist": "Guig Ghetto",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Coruja",
+    "Artist": "Ivete Sangalo",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Sem corda (no abadá required)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Olodum",
+    "Artist": "Olodum",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Pipoca de Saulo",
+    "Artist": "Saulo Fernandes",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Sem corda (no abadá required)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Crocodilo",
+    "Artist": "Daniela Mercury",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Sem corda (no abadá required)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Bloco da Nana",
+    "Artist": "Léo Santana",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Filhos de Congo",
+    "Artist": "Filhos do Congo",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Ilê Aiyê",
+    "Artist": "Ilê Aiyê",
+    "Day": "Tuesday",
+    "Circuit": "Campo Grande",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Armandinho, Dodô e Osmar",
+    "Artist": "Armandinho, Dodô e Osmar",
+    "Day": "Saturday",
+    "Circuit": "Campo Grande",
+    "Access Type": "Abadá (paid)",
+    "Status": "Tentative"
+  },
+  {
+    "Bloco": "Cortejo Afro",
+    "Artist": "Cortejo Afro",
+    "Day": "Monday",
+    "Circuit": "Barra–Ondina",
+    "Access Type": "fantasia (paid)",
+    "Status": "Tentative"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "Title": "Alexandre Peixe",
+    "Description": "Axé songwriter turned performer",
+    "Genre": "Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), axé heritage, group-night-out vibe, music-focused"
+  },
+  {
+    "Title": "Alinne Rosa",
+    "Description": "Pop-axé diva; colorful, high-energy",
+    "Genre": "Pop-Axé",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, pop mainstream, fashion-forward, LGBTQ+ friendly, party-heavy"
+  },
+  {
+    "Title": "Alok",
+    "Description": "Global EDM superstar",
+    "Genre": "Electronic, EDM, House",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, international tourists, EDM crowd, nightclub-energy, fashion-forward, party-heavy"
+  },
+  {
+    "Title": "Armandinho, Dodô e Osmar",
+    "Description": "Legacy trio elétrico project; foundational axé sound.",
+    "Genre": "Axé, Guitarra Baiana",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "older-mixed (30s–50s), locals-heavy, axé heritage, classic trio elétrico fans, music-focused, heritage-pride/cultural, Bahian/axé devotion"
+  },
+  {
+    "Title": "Atitude 67",
+    "Description": "Samba-pop group with a surfy, relaxed vibe.",
+    "Genre": "Samba-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, pagode/pagodão crowd, group-night-out vibe, fun-over-frills, party-heavy"
+  },
+  {
+    "Title": "Babado Novo",
+    "Description": "Pop-axé; playful; strong with younger Brazilians",
+    "Genre": "Pop-Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed local/tourist, axé heritage, pop mainstream, party-heavy, fashion-forward"
+  },
+  {
+    "Title": "BaianaSystem",
+    "Description": "One of Bahia’s most innovative bands, fusing guitar, electronics, and Afro-diasporic rhythms into a futuristic street-carnival sound.",
+    "Genre": "Alternative, Samba-Reggae, Percussive Fusion, Electronic",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), international tourists, Afro-cultural/bloco-afro, music-nerd/instrumental, fashion-forward, party-heavy"
+  },
+  {
+    "Title": "Bailinho de Quinta",
+    "Description": "Carnaval/axé party band.",
+    "Genre": "Axé, Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, axé heritage, Bahian/axé devotion, relaxed/calmer, music-focused, heritage-pride/cultural"
+  },
+  {
+    "Title": "Banda Cheiro",
+    "Description": "Classic axé band with nostalgic melodies.",
+    "Genre": "Classic Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), mixed local/tourist, axé heritage, romantic/couples-friendly, music-focused"
+  },
+  {
+    "Title": "Banda Eva",
+    "Description": "Classic axé-pop group with uplifting hits.",
+    "Genre": "Axé, Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), mixed local/tourist, axé heritage, group-night-out vibe, heritage-pride/cultural, Bahian/axé devotion, joyful/celebratory, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Bankoma",
+    "Description": "A culturally rich bloco afro known for strong percussion, Afro-Bahian spirituality, and community-driven performances.",
+    "Genre": "Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, Afro-cultural/bloco-afro, heritage-pride/cultural, spiritual/ceremonial following, music-focused"
+  },
+  {
+    "Title": "Batifun",
+    "Description": "Traditional samba/pagode band.",
+    "Genre": "Pagode, Samba",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, samba crowd, relaxed/calmer, music-focused, fun-over-frills"
+  },
+  {
+    "Title": "Bell Marques",
+    "Description": "Former Chiclete com Banana frontman; axé-rock icon.",
+    "Genre": "Axé-Rock",
+    "Energy Level": "High",
+    "Audience and Vibe": "older-mixed (30s–50s), locals-heavy, Brazilian tourists, classic trio elétrico fans, heritage-pride/cultural, group-night-out vibe, music-focused, Bahian/axé devotion, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Belo",
+    "Description": "Iconic romantic pagode singer.",
+    "Genre": "Pagode Romântico",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), Brazilian tourists, romantic/couples-friendly, grown-and-sexy, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Benzadeus",
+    "Description": "Bahian performer blending axé, reggae, and pop.",
+    "Genre": "Axé, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed local/tourist, pop mainstream, relaxed/calmer, fashion-forward"
+  },
+  {
+    "Title": "Carla Cristina",
+    "Description": "Uplifting axé classics; warm stage presence",
+    "Genre": "Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, party-heavy, fashion-forward"
+  },
+  {
+    "Title": "Carlinhos Brown",
+    "Description": "Afro-Bahian icon; founder of Timbalada",
+    "Genre": "Afro-Axé, Samba-Reggae, Percussive Fusion",
+    "Energy Level": "High",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, Afro-cultural/bloco-afro, music-nerd/instrumental, heritage-pride/cultural, music-focused"
+  },
+  {
+    "Title": "Chiclete com Banana",
+    "Description": "Classic axé-rock group",
+    "Genre": "Axé-Rock",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), Brazilian tourists, locals-heavy, classic trio elétrico fans, heritage-pride/cultural, joyful/celebratory, group-night-out vibe, Bahian/axé devotion"
+  },
+  {
+    "Title": "Claudia Leitte",
+    "Description": "Pop-axé diva with polished, high-energy shows.",
+    "Genre": "Pop-Axé",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, pop mainstream, fashion-forward, LGBTQ+ friendly, party-heavy, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Cortejo Afro",
+    "Description": "Art-forward Afro bloco; visual and rhythmic excellence",
+    "Genre": "Afro-Axé, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, Afro-cultural/bloco-afro, heritage-pride/cultural, Afro-pride icon, LGBTQ+ friendly, music-focused"
+  },
+  {
+    "Title": "Daniela Mercury",
+    "Description": "Bahia musical royalty with strong Afro-Bahian influences.",
+    "Genre": "Afro-Axé, Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), mixed local/tourist, international tourists, LGBTQ+ icon, heritage-pride/cultural, LGBTQ+ friendly, fashion-forward, music-focused, party-heavy, axé heritage, Afro-cultural/bloco-afro, pop mainstream"
+  },
+  {
+    "Title": "Didá – Banda Feminina",
+    "Description": "A groundbreaking all-women percussion ensemble rooted in Afro-Bahian tradition, known for powerful rhythmic performances and cultural pride.",
+    "Genre": "Percussive Fusion, Samba-Reggae",
+    "Energy Level": "Medium-High",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, Afro-cultural/bloco-afro, heritage-pride/cultural, spiritual/ceremonial following, music-focused"
+  },
+  {
+    "Title": "Dubdogz",
+    "Description": "Brazilian DJ duo with big-room house sound.",
+    "Genre": "Electronic",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, EDM crowd, pop mainstream, party-heavy, nightclub-energy, group-night-out vibe, fashion-forward"
+  },
+  {
+    "Title": "Durval Lelys",
+    "Description": "Sunny, nostalgic axé icon; ex–Asa de Águia.",
+    "Genre": "Classic Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), mixed local/tourist, locals-heavy, axé heritage, classic trio elétrico fans, heritage-pride/cultural, group-night-out vibe, joyful/celebratory, music-focused, Bahian/axé devotion"
+  },
+  {
+    "Title": "É o Tchan",
+    "Description": "Funky, nostalgic 90s pagode-pop",
+    "Genre": "Pagode, Pagode-Baiano, Samba-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, axé heritage, sensual/body-forward, party-heavy, fun-over-frills, group-night-out vibe, heritage-pride/cultural"
+  },
+  {
+    "Title": "Felipe Amorim",
+    "Description": "Up-and-coming forró/piseiro artist.",
+    "Genre": "Piseiro, Forró",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, funk-heavy crowd, pop mainstream, party-heavy, nightclub-energy, sensual/body-forward, group-night-out vibe"
+  },
+  {
+    "Title": "Filhos de Gandhy",
+    "Description": "Iconic afoxé; peace and nonviolence aesthetic",
+    "Genre": "Afoxé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), older (40+), locals-heavy, Afro-cultural/bloco-afro, axé heritage, classic trio elétrico fans, relaxed/calmer, heritage-pride/cultural, music-focused"
+  },
+  {
+    "Title": "Filhos de Jorge",
+    "Description": "Percussive axé/worldbeat fusion group.",
+    "Genre": "Axé, Worldbeat",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, pop mainstream, sensual/body-forward, party-heavy, group-night-out vibe, fashion-forward"
+  },
+  {
+    "Title": "Filhos do Brasil",
+    "Description": "Samba-reggae/axé group with energetic sets.",
+    "Genre": "Axé, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, axé heritage, pop mainstream, party-heavy, music-focused, music-nerd/instrumental"
+  },
+  {
+    "Title": "Filhos do Congo",
+    "Description": "A traditional bloco afro rooted in ancestral drumming and Bantu-inspired aesthetics, delivering powerful cultural processions.",
+    "Genre": "Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), locals-heavy, Afro-cultural/bloco-afro, heritage-pride/cultural, Afro-pride icon, spiritual/ceremonial following"
+  },
+  {
+    "Title": "Gilmelândia",
+    "Description": "A beloved Axé singer known for charismatic stage presence, nostalgic sing-along hits, and a fun, lighthearted trio vibe.",
+    "Genre": "Classic Axé",
+    "Energy Level": "Medium-High",
+    "Audience and Vibe": "mixed-age (20s–50s), Brazilian tourists, axé heritage, joyful/celebratory, fun-over-frills, group-night-out vibe"
+  },
+  {
+    "Title": "Guig Ghetto",
+    "Description": "A modern pagode group mixing smooth vocals, groove-heavy percussion, and upbeat melodies.",
+    "Genre": "Pagode-Pop",
+    "Energy Level": "Medium-High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed local/tourist, pagode/pagodão crowd, joyful/celebratory, fun-over-frills, party-heavy"
+  },
+  {
+    "Title": "Gusttavo Lima",
+    "Description": "Sertanejo superstar",
+    "Genre": "Sertanejo",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, pop mainstream, forró/sertanejo crowd, romantic/couples-friendly, group-night-out vibe, grown-and-sexy, party-heavy, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Henry Freitas",
+    "Description": "Piseiro vocalist with Northeast traction.",
+    "Genre": "Piseiro",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, funk-heavy crowd, pop mainstream, party-heavy, sensual/body-forward, nightclub-energy, group-night-out vibe"
+  },
+  {
+    "Title": "Ilê Aiyê",
+    "Description": "Oldest Afro bloco; deep African-Bahian heritage",
+    "Genre": "Afro-Axé, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), locals-heavy, Afro-cultural/bloco-afro, axé heritage, music-focused, relaxed/calmer, heritage-pride/cultural, Afro-pride icon, Bahian/axé devotion, spiritual/ceremonial following"
+  },
+  {
+    "Title": "Ivete Sangalo",
+    "Description": "Superstar of axé/pop; joyful and polished performances.",
+    "Genre": "Axé, Pop",
+    "Energy Level": "High",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), mixed local/tourist, Brazilian tourists, international tourists, axé heritage, pop mainstream, classic trio elétrico fans, LGBTQ+ friendly, group-night-out vibe, music-focused, fashion-forward, joyful/celebratory, Bahian/axé devotion, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Jammil",
+    "Description": "Axé-pop group; beachy vibe",
+    "Genre": "Axé-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, axé heritage, pop mainstream, joyful/celebratory, group-night-out vibe, music-focused, fun-over-frills, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Jau",
+    "Description": "Smooth axé-romantic vocalist; beloved local",
+    "Genre": "Axé-Pop, Romantic Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), locals-heavy, mixed local/tourist, axé heritage, pop mainstream, romantic/couples-friendly, relaxed/calmer, music-focused, grown-and-sexy, emotional / sing-along heavy"
+  },
+  {
+    "Title": "João Gomes",
+    "Description": "Piseiro sensation with a huge youth following.",
+    "Genre": "Piseiro",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, pop mainstream, forró/sertanejo crowd, romantic/couples-friendly, group-night-out vibe, party-heavy, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Jorge & Mateus",
+    "Description": "Sertanejo superstars",
+    "Genre": "Sertanejo",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, pop mainstream, romantic/couples-friendly, grown-and-sexy, relaxed/calmer, group-night-out vibe"
+  },
+  {
+    "Title": "La Fúria",
+    "Description": "A high-energy pagodão band known for viral dance hits and intense pipoca-style street energy.",
+    "Genre": "Pagode-Baiano",
+    "Energy Level": "Very High",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, pagode/pagodão crowd, party-heavy, nightclub-energy, fun-over-frills"
+  },
+  {
+    "Title": "Léo Foguete",
+    "Description": "Regional act; upbeat party atmosphere",
+    "Genre": "Pagode-Pop, Pagode",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), younger (18–28), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, funk-heavy crowd, pop mainstream, party-heavy, sensual/body-forward, nightclub-energy, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Léo Santana",
+    "Description": "Known as 'GG'; huge stage presence; pagode star",
+    "Genre": "Pagode-Baiano, Pagode",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, funk-heavy crowd, pop mainstream, sensual/body-forward, party-heavy, nightclub-energy, fashion-forward, group-night-out vibe"
+  },
+  {
+    "Title": "Ludmilla",
+    "Description": "Brazilian funk/pop superstar.",
+    "Genre": "Pop",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), younger (18–28), mixed local/tourist, Brazilian tourists, funk-heavy crowd, pop mainstream, sensual/body-forward, party-heavy, fashion-forward, LGBTQ+ friendly, group-night-out vibe, LGBTQ+ icon"
+  },
+  {
+    "Title": "Luiz Caldas",
+    "Description": "Creator of axé; Bahian musical legend.",
+    "Genre": "Axé",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), locals-heavy, mixed local/tourist, axé heritage, classic trio elétrico fans, music-nerd/instrumental, heritage-pride/cultural, music-focused, joyful/celebratory, relaxed/calmer, Bahian/axé devotion"
+  },
+  {
+    "Title": "Malê Debalê",
+    "Description": "Afro-ballet ensemble; powerful choreography",
+    "Genre": "Afro-Ballet, Afro-Axé, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), young-mixed (20s–30s), locals-heavy, mixed local/tourist, Afro-cultural/bloco-afro, axé heritage, music-nerd/instrumental, heritage-pride/cultural, music-focused, relaxed/calmer, Afro-pride icon, Bahian/axé devotion"
+  },
+  {
+    "Title": "Márcia Freire",
+    "Description": "Axé diva; ex–Cheiro de Amor.",
+    "Genre": "Classic Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), locals-heavy, mixed local/tourist, axé heritage, classic trio elétrico fans, pop mainstream, joyful/celebratory, romantic/couples-friendly, heritage-pride/cultural, music-focused, Bahian/axé devotion"
+  },
+  {
+    "Title": "Margareth Menezes",
+    "Description": "One of Bahia’s most respected voices, blending Afro-pop, samba-reggae, and MPB with strong cultural and political roots.",
+    "Genre": "Afro-Axé, Samba-Reggae",
+    "Energy Level": "High",
+    "Audience and Vibe": "mixed-age (20s–50s), mixed local/tourist, axé heritage, heritage-pride/cultural, joyful/celebratory, music-focused"
+  },
+  {
+    "Title": "Matheus & Kauan",
+    "Description": "Sertanejo-pop duo",
+    "Genre": "Sertanejo-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, pop mainstream, romantic/couples-friendly, group-night-out vibe, relaxed/calmer, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Menos é Mais",
+    "Description": "Modern pagode group; romantic + upbeat",
+    "Genre": "Pagode",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, pop mainstream, romantic/couples-friendly, group-night-out vibe, party-heavy, fun-over-frills, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Mochakk",
+    "Description": "Rising Brazilian tech house DJ.",
+    "Genre": "Electronic, Tech House",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), international tourists, mixed local/tourist, EDM crowd, music-nerd/instrumental, fashion-forward, music-focused, nightclub-energy, group-night-out vibe"
+  },
+  {
+    "Title": "Mumuzinho",
+    "Description": "Romantic pagode and samba-pop vocalist.",
+    "Genre": "Pagode, Samba-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, pop mainstream, romantic/couples-friendly, grown-and-sexy, relaxed/calmer, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Muzenza",
+    "Description": "Roots reggae + Afro-Bahian rhythms",
+    "Genre": "Afro-Reggae, Samba-Reggae",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), locals-heavy, mixed local/tourist, Afro-cultural/bloco-afro, axé heritage, music-nerd/instrumental, heritage-pride/cultural, music-focused, relaxed/calmer, joyful/celebratory, Afro-pride icon, Bahian/axé devotion"
+  },
+  {
+    "Title": "Natanzinho Lima",
+    "Description": "Emerging forró/piseiro singer (not Nattan).",
+    "Genre": "Piseiro, Forró",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, pop mainstream, party-heavy, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Nattan (\"Nattanzinho\")",
+    "Description": "Piseiro star with explosive stage energy.",
+    "Genre": "Piseiro",
+    "Energy Level": "Very High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), mixed local/tourist, Brazilian tourists, pop mainstream, forró/sertanejo crowd, party-heavy, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Ne-Yo",
+    "Description": "International R&B/pop artist.",
+    "Genre": "R&B, Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, international tourists, pop mainstream, romantic/couples-friendly, relaxed/calmer, fashion-forward, grown-and-sexy, music-focused"
+  },
+  {
+    "Title": "Olodum",
+    "Description": "Global samba-reggae institution; massive percussion",
+    "Genre": "Samba-Reggae",
+    "Energy Level": "High",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), locals-heavy, mixed local/tourist, international tourists, Afro-cultural/bloco-afro, axé heritage, heritage-pride/cultural, music-focused, joyful/celebratory, Afro-pride icon, Bahian/axé devotion"
+  },
+  {
+    "Title": "Os Autorais",
+    "Description": "Bahian ensemble blending samba-reggae and axé.",
+    "Genre": "Axé, Samba-Reggae",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), locals-heavy, mixed local/tourist, axé heritage, pop mainstream, music-nerd/instrumental, music-focused, group-night-out vibe, relaxed/calmer, joyful/celebratory"
+  },
+  {
+    "Title": "Pagodart",
+    "Description": "Legendary Bahian pagode group.",
+    "Genre": "Pagode-Baiano",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), locals-heavy, Brazilian tourists, pagode/pagodão crowd, funk-heavy crowd, pop mainstream, party-heavy, sensual/body-forward, group-night-out vibe, fun-over-frills, nightclub-energy"
+  },
+  {
+    "Title": "Parangolé",
+    "Description": "Ultra-popular pagode band; viral hits",
+    "Genre": "Pagode-Baiano",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, funk-heavy crowd, pagode/pagodão crowd, pop mainstream, sensual/body-forward, party-heavy, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Pedro Sampaio",
+    "Description": "DJ/producer mixing funk, pop, and EDM.",
+    "Genre": "Funk, Pop, EDM",
+    "Energy Level": "Very High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, international tourists, funk-heavy crowd, pop mainstream, EDM crowd, party-heavy, nightclub-energy, fashion-forward, group-night-out vibe, sensual/body-forward"
+  },
+  {
+    "Title": "Péricles",
+    "Description": "Pagode grandmaster with smooth vocals.",
+    "Genre": "Pagode",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, samba crowd, romantic/couples-friendly, grown-and-sexy, relaxed/calmer, music-focused, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Psirico",
+    "Description": "Party-heavy pagode; pipoca catnip",
+    "Genre": "Pagode-Baiano",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, funk-heavy crowd, axé heritage, party-heavy, nightclub-energy, sensual/body-forward, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Sambay",
+    "Description": "Local samba/pagode ensemble.",
+    "Genre": "Pagode, Samba",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, pop mainstream, party-heavy, joyful/celebratory, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "Saulo Fernandes",
+    "Description": "Axé-pop emotional favorite; big pipoca appeal",
+    "Genre": "Axé-Pop, Romantic Axé",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), mixed-age (20s–50s), locals-heavy, mixed local/tourist, axé heritage, pop mainstream, relaxed/calmer, romantic/couples-friendly, music-focused, spiritual/ceremonial following, Bahian/axé devotion, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Simone Mendes",
+    "Description": "Sertanejo-pop headliner",
+    "Genre": "Sertanejo",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), older-mixed (30s–50s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, pop mainstream, romantic/couples-friendly, relaxed/calmer, group-night-out vibe, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Sorriso Maroto",
+    "Description": "Popular pagode band with modern hits.",
+    "Genre": "Pagode",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, pop mainstream, romantic/couples-friendly, group-night-out vibe, fun-over-frills, relaxed/calmer, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Targino Gondim",
+    "Description": "An acclaimed MPB and forró accordionist known for warm, melodic, dance-friendly performances.",
+    "Genre": "Forró",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "older-mixed (30s–50s), mixed local/tourist, forró/sertanejo crowd, romantic/couples-friendly, relaxed/calmer, music-focused"
+  },
+  {
+    "Title": "Thiago Aquino",
+    "Description": "A rising star in arrocha and romantic pagode, delivering emotional, melodic performances.",
+    "Genre": "Pagode Romântico, Sertanejo-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), Brazilian tourists, romantic/couples-friendly, emotional / sing-along heavy, fun-over-frills, pop mainstream"
+  },
+  {
+    "Title": "Thiaguinho",
+    "Description": "Pagode superstar; ex–Exaltasamba.",
+    "Genre": "Pagode",
+    "Energy Level": "Medium–High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, pagode/pagodão crowd, pop mainstream, romantic/couples-friendly, relaxed/calmer, group-night-out vibe, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Timbalada",
+    "Description": "Afro-percussive group from Candeal",
+    "Genre": "Afro-Axé, Percussive Fusion, Samba-Reggae",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, locals-heavy, Afro-cultural/bloco-afro, axé heritage, music-nerd/instrumental, party-heavy, group-night-out vibe, joyful/celebratory, Bahian/axé devotion"
+  },
+  {
+    "Title": "Tomate",
+    "Description": "High-intensity axé-rock vocalist known for wild pipoca sets.",
+    "Genre": "Axé-Rock",
+    "Energy Level": "Very High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, axé heritage, classic trio elétrico fans, party-heavy, group-night-out vibe, joyful/celebratory, fun-over-frills, emotional / sing-along heavy"
+  },
+  {
+    "Title": "Tony Salles",
+    "Description": "Lead vocalist of Parangolé; axé/pagode performer.",
+    "Genre": "Axé, Pagode",
+    "Energy Level": "High",
+    "Audience and Vibe": "younger (18–28), young-mixed (20s–30s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, funk-heavy crowd, pop mainstream, sensual/body-forward, nightclub-energy, party-heavy, fashion-forward, group-night-out vibe"
+  },
+  {
+    "Title": "Tuca Fernandes",
+    "Description": "Axé singer; former Jammil frontman",
+    "Genre": "Axé, Axé-Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, axé heritage, pop mainstream, party-heavy, joyful/celebratory, group-night-out vibe, fun-over-frills, music-focused"
+  },
+  {
+    "Title": "Uel",
+    "Description": "Bahian vocalist frequently appearing in camarote lineups.",
+    "Genre": "Axé, Pop",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, locals-heavy, axé heritage, pop mainstream, music-nerd/instrumental, joyful/celebratory, relaxed/calmer, group-night-out vibe, music-focused, fun-over-frills"
+  },
+  {
+    "Title": "Vintage Culture",
+    "Description": "Internationally known Brazilian DJ (house/deep house).",
+    "Genre": "Electronic, House",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, international tourists, mixed local/tourist, EDM crowd, music-nerd/instrumental, party-heavy, nightclub-energy, fashion-forward, music-focused, group-night-out vibe"
+  },
+  {
+    "Title": "Wesley Safadão",
+    "Description": "Forró/pop crossover star",
+    "Genre": "Forró-Pop, Forró-Eletrônico",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, forró/sertanejo crowd, pop mainstream, party-heavy, group-night-out vibe, fun-over-frills"
+  },
+  {
+    "Title": "WhoMadeWho",
+    "Description": "Danish electro-pop/house trio; stylish and atmospheric.",
+    "Genre": "Alternative, Electronic",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "mixed-age (20s–50s), young-mixed (20s–30s), international tourists, mixed local/tourist, EDM crowd, music-nerd/instrumental, fashion-forward, music-focused, nightclub-energy, relaxed/calmer, group-night-out vibe"
+  },
+  {
+    "Title": "Xanddy Harmonia",
+    "Description": "Pagode powerhouse; crowd-moving rhythms",
+    "Genre": "Pagode",
+    "Energy Level": "High",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), Brazilian tourists, mixed local/tourist, pagode/pagodão crowd, pop mainstream, sensual/body-forward, romantic/couples-friendly, grown-and-sexy, party-heavy"
+  },
+  {
+    "Title": "Zé Vaqueiro",
+    "Description": "Forró/vaquejada vocalist with national fame.",
+    "Genre": "Forró, Vaquejada",
+    "Energy Level": "Medium",
+    "Audience and Vibe": "young-mixed (20s–30s), mixed-age (20s–50s), mixed local/tourist, Brazilian tourists, forró/sertanejo crowd, pop mainstream, romantic/couples-friendly, group-night-out vibe, fun-over-frills, emotional / sing-along heavy"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "Title": "Alinne Rosa",
+    "Artist": "Alinne Rosa",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Armandinho, Dodô e Osmar",
+    "Artist": "Armandinho, Dodô e Osmar",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "BaianaSystem",
+    "Artist": "BaianaSystem",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Bankoma",
+    "Artist": "Bankoma",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Bloco da Nana",
+    "Artist": "Léo Santana",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Bloco da Quinta",
+    "Artist": "Bell Marques",
+    "Price Tier": "premium (R$850 – R$1,400)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Cameleão",
+    "Artist": "Bell Marques",
+    "Price Tier": "ultra-premium (R$1,400 – R$2,100+)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Chá da Alice",
+    "Artist": "Babado Novo",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Cheiro de Amor",
+    "Artist": "Banda Cheiro",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "On carro de apoio (support truck), Premium abadá, Open bar",
+    "VIP Price Tier": "mid-tier (R$450 – R$850)",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Cortejo Afro",
+    "Artist": "Cortejo Afro",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Coruja",
+    "Artist": "Ivete Sangalo",
+    "Price Tier": "ultra-premium (R$1,400 – R$2,100+)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Crocodilo",
+    "Artist": "Daniela Mercury",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Da Segunda",
+    "Artist": "Xanddy Harmonia",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "Open bar, Snacks, Bathrooms",
+    "VIP Price Tier": "mid-tier (R$450 – R$850)",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Da Torcida",
+    "Artist": "Xanddy Harmonia",
+    "Price Tier": "premium (R$850 – R$1,400)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Didà Banda Feminina",
+    "Artist": "Didá – Banda Feminina",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Eva",
+    "Artist": "Banda Eva",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "Bathrooms, Snacks, Open bar, On carro de apoio (support truck)",
+    "VIP Price Tier": "ultra-premium (R$1,400 – R$2,100+)",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Filhos de Congo",
+    "Artist": "Filhos do Congo",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Filhos de Gandhy",
+    "Artist": "Filhos de Gandhy",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Fissura",
+    "Artist": "Tomate",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "On carro de apoio (support truck), Premium abadá, Open bar, Bathrooms, Snacks",
+    "VIP Price Tier": "ultra-premium (R$1,400 – R$2,100+)",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Gilmelândia",
+    "Artist": "Gilmelândia",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Gosto É Gosto",
+    "Artist": "Durval Lelys",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Guig Ghetto",
+    "Artist": "Guig Ghetto",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Ilê Aiyê",
+    "Artist": "Ilê Aiyê",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "La Fúria",
+    "Artist": "La Fúria",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Largadinho",
+    "Artist": "Claudia Leitte",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Malê Debalê",
+    "Artist": "Malê Debalê",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Me Abraça",
+    "Artist": "Durval Lelys",
+    "Price Tier": "premium (R$850 – R$1,400)",
+    "VIP Experience": "On carro de apoio (support truck), Open bar, Snacks, Bathrooms",
+    "VIP Price Tier": "ultra-premium (R$1,400 – R$2,100+)",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Muzenza",
+    "Artist": "Muzenza",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Olodum",
+    "Artist": "Olodum",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Os Internacionais",
+    "Artist": "É o Tchan, Chiclete com Banana",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Pagodart",
+    "Artist": "Pagodart",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Parangolé",
+    "Artist": "Parangolé",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Pipoca de Saulo",
+    "Artist": "Saulo Fernandes",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Praieiro",
+    "Artist": "Jammil",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Targino Gondim",
+    "Artist": "Targino Gondim",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Thiago Aquino",
+    "Artist": "Thiago Aquino",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Timbalada",
+    "Artist": "Timbalada, Carlinhos Brown",
+    "Price Tier": "mid-tier (R$450 – R$850)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "Yes"
+  },
+  {
+    "Title": "Tony Salles",
+    "Artist": "Tony Salles",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Vem Comigo",
+    "Artist": "Carla Cristina",
+    "Price Tier": "budget (R$150 – R$450)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Vumbora",
+    "Artist": "Bell Marques",
+    "Price Tier": "premium (R$850 – R$1,400)",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  },
+  {
+    "Title": "Xanddy Harmonia",
+    "Artist": "Xanddy Harmonia",
+    "Price Tier": "TBD",
+    "VIP Experience": "None",
+    "VIP Price Tier": "None",
+    "Afro Bloco": "No"
+  }
+]
